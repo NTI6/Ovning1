@@ -2,5 +2,5 @@
 const x=5;
 const y=6;
 let total= x*y;
-document.innerHTML = total;
+document.getElemetById("demo") = total;
 </script>
